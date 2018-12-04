@@ -838,7 +838,7 @@ img[src$="#full"] {
 .progress-bar {
 	display: block;
 	width: 0;
-	height: 1px;
+	height: 3px;
 	background: $primary-color;
 	box-shadow: 0 0 1px $primary-color, 0 0 3px $primary-color;
 }
