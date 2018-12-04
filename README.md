@@ -28,7 +28,7 @@ TODO
 * Author informations for posts and author archives
 * Featured posts
 * Reading progress for posts
-* Automatic code syntax highlight and line numbers
+* Automatic code syntax highlight and line numbers based on [Dracula Theme](https://draculatheme.com/highlightjs/)
 * Disqus support
 * Subscribers support
 * Sharing buttons
