@@ -1284,10 +1284,10 @@ img[src$="#full"] {
 	box-sizing: border-box;
 }
 .post-comments.activated {
-	margin: -1px 0 0;
+	margin: 2em 0;
 	padding: 1em;
-	background: $color-gray-98;
 	border: 1px solid $color-gray-90;
+	border-radius: 5px;
 }
 .post-comments-activate {
 	display: inline-block;
