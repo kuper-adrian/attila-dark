@@ -1,29 +1,27 @@
-# Attila
+# Attila - Dark
 
-A content focused responsive theme for [Ghost](http://github.com/tryghost/ghost/).
+Dark theme for [Ghost](http://github.com/tryghost/ghost/) based on [Attila theme](https://github.com/zutrinken/attila) by [zutrinken](http://attila.zutrinken.com/).
 
 ## Demo
 
-* [Blog](http://attila.zutrinken.com/)
-* [Post](http://attila.zutrinken.com/demo/)
-* [Tag Archive](http://attila.zutrinken.com/tag/general/)
-* [Author Archive](http://attila.zutrinken.com/author/zutrinken/)
+TODO
 
 ## Screenshots
 
 <table>
 <tr>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot-desktop.jpg" />
+<img src="https://raw.githubusercontent.com/kuper-adrian/attila-dark/master/src/screenshot-desktop.PNG" />
 </td>
 <td valign="top">
-<img src="https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot-mobile.jpg" />
+<img src="https://raw.githubusercontent.com/kuper-adrian/attila-dark/master/src/screenshot-mobile.PNG" />
 </td>
 </tr>
 </table>
 
 ## Features
 
+* It's dark!
 * Responsive layout
 * Navigation support
 * Paralax cover images for posts, author archives and blog
