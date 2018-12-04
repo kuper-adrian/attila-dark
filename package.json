@@ -1,8 +1,8 @@
 {
-  "name": "attila",
-  "description": "Ghost Theme",
+  "name": "attila-dark",
+  "description": "Dark Ghost Theme",
   "demo": "http://attila.zutrinken.com",
-  "version": "1.7.6",
+  "version": "1.8.0",
   "engines": {
     "ghost": ">=2.1.0"
   },
