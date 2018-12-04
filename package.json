@@ -2,7 +2,7 @@
   "name": "attila-dark",
   "description": "Dark Ghost Theme",
   "demo": "http://attila.zutrinken.com",
-  "version": "1.8.0",
+  "version": "1.8.2",
   "engines": {
     "ghost": ">=2.1.0"
   },
