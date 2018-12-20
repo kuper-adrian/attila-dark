@@ -4,7 +4,7 @@ Dark theme for [Ghost](http://github.com/tryghost/ghost/) based on [Attila theme
 
 ## Demo
 
-TODO
+I'm unable to host a dedicated demo at the moment, but you can see the theme in action on my personal blog [loglevel-blog.com](https://loglevel-blog.com). Also take a look at the demo of the original light theme "Attila" by zutrinken [here](https://attila.zutrinken.com/).
 
 ## Screenshots
 
