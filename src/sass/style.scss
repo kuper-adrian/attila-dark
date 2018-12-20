@@ -628,7 +628,6 @@ img[src$="#full"] {
    Navigation
    ========================================================================== */
 
-#navigation {}
 .nav-button {
 	position: fixed;
 	top: 0;
@@ -788,7 +787,6 @@ img[src$="#full"] {
 #menu li:last-child:before {
 	display: none;
 }
-#menu li.active {}
 #menu li.active:after {
 	position: absolute;
 	content: '';
